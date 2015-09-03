@@ -1,0 +1,16 @@
+{
+  "name": "buckle-up",
+  "version": "1.0.0",
+  "description": "A front-end component managment system.",
+  "main": "gulpfile.coffee",
+  "author": "Dustin Dowell",
+  "license": "MIT",
+  "dependencies": {
+    "coffee": "*",
+    "gulp": "*",
+    "gulp-watch": "*",
+    "gulp-jade": "*",
+    "gulp-coffee": "*",
+    "gulp-ruby-sass": "*"
+  }
+}
