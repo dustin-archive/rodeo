@@ -8,4 +8,7 @@ coffee = require('gulp-coffee')
 sass = require('gulp-ruby-sass')
 
 # Directories
-component_dir = 'components/'
+componentDir = 'components/'
+
+gulp.task 'buckle-up', ->
+  return gulp.src(componentDir + '*.scss')
