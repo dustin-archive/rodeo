@@ -11,7 +11,7 @@ coffee = require 'gulp-coffee'
 sass   = require 'gulp-ruby-sass'
 
 # Directories
-componentDir = 'components/'
+componentDir = 'dev/components/'
 
 gulp.task 'jade', ->
   return gulp.src componentDir + '**/index.jade'
