@@ -1,7 +1,7 @@
 {
   "name": "buckle-up",
   "version": "1.0.0",
-  "description": "A front-end component managment system.",
+  "description": "A front-end component management system.",
   "main": "gulpfile.coffee",
   "author": "Dustin Dowell",
   "license": "MIT",
